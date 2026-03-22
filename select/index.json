@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "残機",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-02T15:36:35.424859Z",
+  "createdAt": "2026-03-22T10:05:47.990143Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,24 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_残機_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/localdb_01_残機_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "6OC92oxs4gA"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "残機",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/localdb_02_残機_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "GNFjhvFnnDY"
     }
   ]
 }
